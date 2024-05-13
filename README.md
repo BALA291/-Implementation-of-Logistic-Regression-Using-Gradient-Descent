@@ -84,7 +84,11 @@ print(y_prednew)
 
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![m5i](https://github.com/BALA291/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120717501/d1fb2c58-a2ea-47ce-85af-b49fb45860ca)
+![m5ii](https://github.com/BALA291/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120717501/ff2650f0-ae15-475b-a3ed-a2ba65852969)
+![m5iii](https://github.com/BALA291/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120717501/8a4bbbd5-3fa5-4a8e-9db4-12e1bdfa909c)
+![m5iv](https://github.com/BALA291/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120717501/7ddd5870-5be8-4223-865e-ae325ff34aab)
+![m5v](https://github.com/BALA291/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120717501/a84d94ec-5d73-4a6e-b5fe-bbd6874f2606)
 
 
 ## Result:
